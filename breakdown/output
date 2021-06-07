@@ -1,0 +1,9 @@
+2021-06-07T06:47:43.199-0600 7fcb52b44700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:196: scan: 1016
+2021-06-07T06:47:45.383-0600 7fcb4eb3c700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:196: scan: 958
+2021-06-07T06:47:52.111-0600 7fcb54347700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:196: scan: 1100
+2021-06-07T06:47:56.388-0600 7fcb4f33d700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:196: scan: 969
+2021-06-07T06:48:04.976-0600 7fcb51341700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:196: scan: 1066
+2021-06-07T06:48:08.168-0600 7fcb51341700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:196: scan: 1103
+2021-06-07T06:48:13.664-0600 7fcb4e33b700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:196: scan: 1149
+2021-06-07T06:48:18.208-0600 7fcb54b48700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:196: scan: 1082
+2021-06-07T06:48:20.400-0600 7fcb52b44700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:196: scan: 970
