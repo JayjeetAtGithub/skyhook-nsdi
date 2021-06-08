@@ -32,6 +32,6 @@ if __name__ == "__main__":
     print(df)
 
     sns_plot = sns.barplot(x="Selectivity (%)", y="Duration (s)", hue='Format', data=df, ci='sd', capsize=.15, errwidth=0.5, palette=palette)
-    sns_plot.set(ylim=(0, 150))
+    sns_plot.set(ylim=(0, 200))
     plt.tight_layout()
     plt.savefig(f"plot.pdf", bbox_inches='tight')
