@@ -1,0 +1,5 @@
+1. preallocation - true/false (false, as of now)
+2. format - pq/ipc(zstd/lz4)
+3. compression - lz4 
+4. parallel column reads - true/false (false, as of now)
+5. parallel decompression - true/false (false, as of now)
