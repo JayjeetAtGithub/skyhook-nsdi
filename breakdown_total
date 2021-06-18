@@ -1,0 +1,7 @@
+1. uncompressed ipc parallel
+* on client, 60% goes into copying stuff out of the network buffers into Arrow buffers
+* on storage, 20% goes into copying into network buffers
+
+2. compressed ipc parallel
+* on client, 68% goes into decompression and copying data out of the network buffers
+* on storage, 21% goes into compressing and copying into network buffers
