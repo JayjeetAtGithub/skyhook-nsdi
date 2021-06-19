@@ -5,6 +5,7 @@ import os
 
 def drop_caches():
     os.system('sync')
+    os.system('echo 3 > /proc/sys/vm/drop_caches')
     os.system('sync')
 
 read_time = list()
