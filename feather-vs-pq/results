@@ -1,4 +1,6 @@
-pq_all_cols: 0.4179724836349487
-feather_all_cols: 0.26202451705932617
-pq_single_col: 0.10951032638549804
-feather_single_col: 0.2119576358795166
+read feather blob: 0.20713556289672852
+read pq blob: 0.15665044784545898
+parquet all columns: 0.40911284923553465
+feather all columns:  0.21148666858673096
+parquet single column: 0.11259056091308593
+feather single column: 0.21671072006225586
