@@ -1,5 +1,7 @@
 1. preallocation - true/false (false, as of now)
 2. format - pq/ipc_zstd/ipc_lz4
-3. compression - lz4/zstd
-4. parallel column reads - true/false (false, as of now)
-5. parallel decompression - true/false (false, as of now)
+3. on wire compression - lz4/zstd
+4. parallel decompression - true/false (false, as of now)
+
+on wire use zstd for more than 50% and lz4 for less than 50%
+best performing pair is lz4 ipc on disk + wire compression as above for now.
