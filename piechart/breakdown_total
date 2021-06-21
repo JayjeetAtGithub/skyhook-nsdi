@@ -5,3 +5,6 @@
 2. compressed ipc parallel
 * on client, 68% goes into decompression and copying data out of the network buffers
 * on storage, 21% goes into compressing and copying into network buffers
+
+3. I/O + Scan + Scan Request Serialize + Scan Request Deserialize + Serialize + Deserialize
+
