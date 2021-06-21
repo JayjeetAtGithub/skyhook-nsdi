@@ -39,7 +39,7 @@ if __name__ == "__main__":
     elif fmt == "ipc":
         format_ = "ipc"
 
-    selectivity = ["100", "90", "75", "50", "25", "10", "1"]
+    selectivity = ["100", "99", "90", "75", "50", "25", "10", "1"]
     data = dict()
     for per in selectivity:
         data[per] = list()
@@ -50,6 +50,8 @@ if __name__ == "__main__":
 
             if per == "100":
                 filter_ = None
+            if per == "99":
+                filter_ = (ds.field("total_amount") > -200)
             if per == "90":
                 filter_ = (ds.field("total_amount") > 4)
             if per == "75":
