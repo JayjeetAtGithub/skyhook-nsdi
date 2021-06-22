@@ -13,7 +13,7 @@ if __name__ == "__main__":
         "[1] Stat Fragment": list(),
         "[2] Serialize Scan Request": list(),
         "[3] Exec": list(),
-        "[7] Deserialize Result Table": list()
+        "[8] Deserialize Result Table": list()
     }
 
     for line in lines:
@@ -31,7 +31,7 @@ if __name__ == "__main__":
 
         if line.startswith("[4]"):
             parsed = line.split(" ")
-            data["[7] Deserialize Result Table"].append(float(parsed[3]))
+            data["[8] Deserialize Result Table"].append(float(parsed[3]))
     
     for k, v in data.items():
         result[k] = sum(v)/len(v)
@@ -43,7 +43,7 @@ if __name__ == "__main__":
         "[3] Deserialize Scan Request": list(),
         "[5] Scan Parquet Data": list(),
         "[4] Disk I/O": list(),
-        "[8] Serialize Result Table": list()
+        "[6] Serialize Result Table": list()
     }
 
     for line in lines:
@@ -61,7 +61,7 @@ if __name__ == "__main__":
 
         if "[3]" in line:
             parsed = line.split(" ")
-            data["[8] Serialize Result Table"].append(float(parsed[len(parsed)-2]))
+            data["[6] Serialize Result Table"].append(float(parsed[len(parsed)-2]))
 
     rep = 1
     for k, v in data.items():
@@ -79,7 +79,7 @@ if __name__ == "__main__":
 
     # print("total time: ", total)
     result["[5] Scan Parquet Data"] = result["[5] Scan Parquet Data"] - result["[4] Disk I/O"]
-    result["[7] Result Transfer "] = result["[3] Exec"] - (result["[4] Disk I/O"] + result["[5] Scan Parquet Data"] + result["[8] Serialize Result Table"] + result["[3] Deserialize Scan Request"])
+    result["[7] Result Transfer "] = result["[3] Exec"] - (result["[4] Disk I/O"] + result["[5] Scan Parquet Data"] + result["[6] Serialize Result Table"] + result["[3] Deserialize Scan Request"])
     result.pop("[3] Exec")
 
     df = pd.DataFrame(result.items())
