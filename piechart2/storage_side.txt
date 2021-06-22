@@ -1,0 +1,207 @@
+2021-06-22T13:12:04.213-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.705405 ms
+2021-06-22T13:12:04.217-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.392815 ms
+2021-06-22T13:12:04.261-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 40.878402 ms
+2021-06-22T13:12:04.325-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 36.918554 ms
+2021-06-22T13:12:04.357-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.181806 ms
+2021-06-22T13:12:04.365-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.573437 ms
+2021-06-22T13:12:04.373-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.072131 ms
+2021-06-22T13:12:04.373-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.318587 ms
+2021-06-22T13:12:04.377-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.401463 ms
+2021-06-22T13:12:04.385-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.491218 ms
+2021-06-22T13:12:04.389-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.250688 ms
+2021-06-22T13:12:04.397-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 5.380921 ms
+2021-06-22T13:12:04.401-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.960505 ms
+2021-06-22T13:12:04.401-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.486032 ms
+2021-06-22T13:12:04.409-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.489200 ms
+2021-06-22T13:12:04.413-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.916167 ms
+2021-06-22T13:12:04.417-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.223311 ms
+2021-06-22T13:12:04.421-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.478184 ms
+2021-06-22T13:12:05.369-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [2] scan parquet object: 1179.446489 ms
+2021-06-22T13:12:06.913-0600 7f52a57bb700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [3] serialize back table: 1543.859714 ms
+2021-06-22T13:12:30.037-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [1] deserialize scan request: 0.469973 ms
+2021-06-22T13:12:30.037-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.635473 ms
+2021-06-22T13:12:30.041-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.039954 ms
+2021-06-22T13:12:30.093-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 53.738235 ms
+2021-06-22T13:12:30.189-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 39.619147 ms
+2021-06-22T13:12:30.249-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.863627 ms
+2021-06-22T13:12:30.257-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 8.426206 ms
+2021-06-22T13:12:30.269-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.936930 ms
+2021-06-22T13:12:30.269-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.436796 ms
+2021-06-22T13:12:30.273-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 5.863851 ms
+2021-06-22T13:12:30.289-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.424604 ms
+2021-06-22T13:12:30.297-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.762402 ms
+2021-06-22T13:12:30.305-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 7.717734 ms
+2021-06-22T13:12:30.317-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.070300 ms
+2021-06-22T13:12:30.317-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.574905 ms
+2021-06-22T13:12:30.325-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 7.308523 ms
+2021-06-22T13:12:30.333-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.149622 ms
+2021-06-22T13:12:30.333-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.275979 ms
+2021-06-22T13:12:30.341-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 7.225132 ms
+2021-06-22T13:12:31.457-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [2] scan parquet object: 1421.699749 ms
+2021-06-22T13:12:32.997-0600 7f52a47b9700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [3] serialize back table: 1538.626582 ms
+2021-06-22T13:12:34.013-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.752690 ms
+2021-06-22T13:12:34.013-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.145163 ms
+2021-06-22T13:12:34.053-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 36.410938 ms
+2021-06-22T13:12:34.113-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 30.489048 ms
+2021-06-22T13:12:34.145-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.152120 ms
+2021-06-22T13:12:34.153-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.139947 ms
+2021-06-22T13:12:34.157-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.635969 ms
+2021-06-22T13:12:34.157-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.261779 ms
+2021-06-22T13:12:34.161-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.099731 ms
+2021-06-22T13:12:34.169-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.784772 ms
+2021-06-22T13:12:34.173-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.396648 ms
+2021-06-22T13:12:34.181-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 5.933333 ms
+2021-06-22T13:12:34.185-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.612081 ms
+2021-06-22T13:12:34.185-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.374627 ms
+2021-06-22T13:12:34.189-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 5.855543 ms
+2021-06-22T13:12:34.197-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.927414 ms
+2021-06-22T13:12:34.201-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.259037 ms
+2021-06-22T13:12:34.205-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.700100 ms
+2021-06-22T13:12:35.277-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [2] scan parquet object: 1265.964256 ms
+2021-06-22T13:12:36.817-0600 7f529ffb0700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [3] serialize back table: 1542.226632 ms
+2021-06-22T13:13:52.958-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [1] deserialize scan request: 0.443817 ms
+2021-06-22T13:13:52.958-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.725006 ms
+2021-06-22T13:13:52.958-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.092831 ms
+2021-06-22T13:13:52.994-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 35.610472 ms
+2021-06-22T13:13:53.054-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 31.792069 ms
+2021-06-22T13:13:53.086-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.257223 ms
+2021-06-22T13:13:53.094-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.135064 ms
+2021-06-22T13:13:53.098-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.907613 ms
+2021-06-22T13:13:53.098-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.251311 ms
+2021-06-22T13:13:53.102-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.301857 ms
+2021-06-22T13:13:53.110-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.646727 ms
+2021-06-22T13:13:53.118-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.559619 ms
+2021-06-22T13:13:53.122-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 5.590233 ms
+2021-06-22T13:13:53.130-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.687092 ms
+2021-06-22T13:13:53.130-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.403108 ms
+2021-06-22T13:13:53.134-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.509150 ms
+2021-06-22T13:13:53.142-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.017489 ms
+2021-06-22T13:13:53.142-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.252991 ms
+2021-06-22T13:13:53.150-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.507332 ms
+2021-06-22T13:13:54.450-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [2] scan parquet object: 1494.188354 ms
+2021-06-22T13:13:56.022-0600 7f52a4fba700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [3] serialize back table: 1571.104932 ms
+2021-06-22T13:14:11.015-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [1] deserialize scan request: 0.465793 ms
+2021-06-22T13:14:11.015-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.649831 ms
+2021-06-22T13:14:11.015-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.980325 ms
+2021-06-22T13:14:11.055-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 37.435213 ms
+2021-06-22T13:14:11.115-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 31.544754 ms
+2021-06-22T13:14:11.147-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.108275 ms
+2021-06-22T13:14:11.151-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.251770 ms
+2021-06-22T13:14:11.159-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.673957 ms
+2021-06-22T13:14:11.159-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.330212 ms
+2021-06-22T13:14:11.163-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.130948 ms
+2021-06-22T13:14:11.167-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.619389 ms
+2021-06-22T13:14:11.175-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.618694 ms
+2021-06-22T13:14:11.179-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 5.455853 ms
+2021-06-22T13:14:11.183-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.681106 ms
+2021-06-22T13:14:11.187-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.384852 ms
+2021-06-22T13:14:11.191-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 5.881499 ms
+2021-06-22T13:14:11.199-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.814116 ms
+2021-06-22T13:14:11.199-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.198926 ms
+2021-06-22T13:14:11.207-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.402798 ms
+2021-06-22T13:14:12.267-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [2] scan parquet object: 1254.117987 ms
+2021-06-22T13:14:13.807-0600 7f52a27b5700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [3] serialize back table: 1541.748134 ms
+2021-06-22T13:14:59.911-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [1] deserialize scan request: 0.418719 ms
+2021-06-22T13:14:59.915-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.691669 ms
+2021-06-22T13:14:59.915-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.333290 ms
+2021-06-22T13:14:59.955-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 36.572588 ms
+2021-06-22T13:15:00.011-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 31.153702 ms
+2021-06-22T13:15:00.043-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.238343 ms
+2021-06-22T13:15:00.047-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.185566 ms
+2021-06-22T13:15:00.055-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.716835 ms
+2021-06-22T13:15:00.055-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.270274 ms
+2021-06-22T13:15:00.059-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.249618 ms
+2021-06-22T13:15:00.067-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.750382 ms
+2021-06-22T13:15:00.071-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.241816 ms
+2021-06-22T13:15:00.075-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 5.560436 ms
+2021-06-22T13:15:00.083-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.739102 ms
+2021-06-22T13:15:00.083-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.383811 ms
+2021-06-22T13:15:00.087-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.569587 ms
+2021-06-22T13:15:00.095-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.290943 ms
+2021-06-22T13:15:00.095-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.264052 ms
+2021-06-22T13:15:00.103-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 7.683773 ms
+2021-06-22T13:15:01.175-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [2] scan parquet object: 1261.441462 ms
+2021-06-22T13:15:02.723-0600 7f52a37b7700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [3] serialize back table: 1549.320154 ms
+2021-06-22T13:15:28.096-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [1] deserialize scan request: 0.458973 ms
+2021-06-22T13:15:28.096-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.763175 ms
+2021-06-22T13:15:28.096-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.092927 ms
+2021-06-22T13:15:28.136-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 38.518864 ms
+2021-06-22T13:15:28.196-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 32.152698 ms
+2021-06-22T13:15:28.228-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.017684 ms
+2021-06-22T13:15:28.236-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.060158 ms
+2021-06-22T13:15:28.240-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.939669 ms
+2021-06-22T13:15:28.240-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.332361 ms
+2021-06-22T13:15:28.244-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.232650 ms
+2021-06-22T13:15:28.252-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.801768 ms
+2021-06-22T13:15:28.256-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.365709 ms
+2021-06-22T13:15:28.264-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 5.560139 ms
+2021-06-22T13:15:28.268-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.765693 ms
+2021-06-22T13:15:28.268-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.484110 ms
+2021-06-22T13:15:28.276-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.074714 ms
+2021-06-22T13:15:28.280-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.239753 ms
+2021-06-22T13:15:28.284-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.257176 ms
+2021-06-22T13:15:28.288-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 7.023755 ms
+2021-06-22T13:15:29.248-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [2] scan parquet object: 1155.195217 ms
+2021-06-22T13:15:30.788-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [3] serialize back table: 1537.588998 ms
+2021-06-22T13:15:31.576-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [1] deserialize scan request: 0.497462 ms
+2021-06-22T13:15:31.576-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.645732 ms
+2021-06-22T13:15:31.580-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.330754 ms
+2021-06-22T13:15:31.616-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 36.665677 ms
+2021-06-22T13:15:31.676-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 31.240198 ms
+2021-06-22T13:15:31.708-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.257622 ms
+2021-06-22T13:15:31.716-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.165693 ms
+2021-06-22T13:15:31.720-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.684796 ms
+2021-06-22T13:15:31.720-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.302359 ms
+2021-06-22T13:15:31.724-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.398043 ms
+2021-06-22T13:15:31.732-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.791991 ms
+2021-06-22T13:15:31.736-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.508961 ms
+2021-06-22T13:15:31.744-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 5.568162 ms
+2021-06-22T13:15:31.748-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.609710 ms
+2021-06-22T13:15:31.748-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.364221 ms
+2021-06-22T13:15:31.756-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.010600 ms
+2021-06-22T13:15:31.760-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.897761 ms
+2021-06-22T13:15:31.760-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.196448 ms
+2021-06-22T13:15:31.768-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 7.027706 ms
+2021-06-22T13:15:33.008-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [2] scan parquet object: 1431.856150 ms
+2021-06-22T13:15:34.548-0600 7f52a0fb2700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [3] serialize back table: 1541.621546 ms
+2021-06-22T13:15:42.836-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [1] deserialize scan request: 0.419867 ms
+2021-06-22T13:15:42.836-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.683309 ms
+2021-06-22T13:15:42.840-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.260626 ms
+2021-06-22T13:15:42.876-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 35.559632 ms
+2021-06-22T13:15:42.932-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 30.316746 ms
+2021-06-22T13:15:42.964-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.303765 ms
+2021-06-22T13:15:42.972-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 5.975168 ms
+2021-06-22T13:15:42.976-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.960449 ms
+2021-06-22T13:15:42.980-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.217425 ms
+2021-06-22T13:15:42.984-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.427171 ms
+2021-06-22T13:15:42.988-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.572870 ms
+2021-06-22T13:15:42.992-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.350129 ms
+2021-06-22T13:15:42.996-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 5.308111 ms
+2021-06-22T13:15:43.004-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.820851 ms
+2021-06-22T13:15:43.008-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.315781 ms
+2021-06-22T13:15:43.012-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.101651 ms
+2021-06-22T13:15:43.020-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.144200 ms
+2021-06-22T13:15:43.020-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.258746 ms
+2021-06-22T13:15:43.028-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.791592 ms
+2021-06-22T13:15:44.148-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [2] scan parquet object: 1311.555782 ms
+2021-06-22T13:15:45.768-0600 7f52a17b3700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [3] serialize back table: 1621.060184 ms
+2021-06-22T13:15:49.932-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [1] deserialize scan request: 0.450357 ms
+2021-06-22T13:15:49.932-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.615591 ms
+2021-06-22T13:15:49.936-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.952565 ms
+2021-06-22T13:15:49.972-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 36.760248 ms
+2021-06-22T13:15:50.032-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 32.031099 ms
+2021-06-22T13:15:50.068-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.562714 ms
+2021-06-22T13:15:50.076-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.613185 ms
+2021-06-22T13:15:50.080-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.680619 ms
+2021-06-22T13:15:50.080-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.328935 ms
+2021-06-22T13:15:50.088-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.510979 ms
+2021-06-22T13:15:50.092-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 4.870747 ms
+2021-06-22T13:15:50.096-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.262440 ms
+2021-06-22T13:15:50.104-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 5.369264 ms
+2021-06-22T13:15:50.112-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 2.083733 ms
+2021-06-22T13:15:50.112-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.448095 ms
+2021-06-22T13:15:50.116-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.069748 ms
+2021-06-22T13:15:50.124-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 1.909009 ms
+2021-06-22T13:15:50.124-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 0.215055 ms
+2021-06-22T13:15:50.132-0600 7f52a3fb8700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [4] i/o: 6.788744 ms
+2021-06-22T13:18:30.691-0600 7f52a07b1700  0 <cls> /tmp/arrow/cpp/src/arrow/adapters/arrow-rados-cls/cls_arrow.cc:47: [1] deserialize scan request: 0.238224 ms
