@@ -1,0 +1,84 @@
+[1] stat fragment: 1.05906 ms
+[2] serialize the scan request: 0.560857 ms
+[3] Exec: 1868.9 ms
+[4] Deserialze table: 104.153 ms
+[1] stat fragment: 0.504127 ms
+[2] serialize the scan request: 0.112054 ms
+[3] Exec: 1900.14 ms
+[4] Deserialze table: 105.368 ms
+[1] stat fragment: 0.514254 ms
+[2] serialize the scan request: 0.128895 ms
+[3] Exec: 1911.09 ms
+[4] Deserialze table: 106.892 ms
+[1] stat fragment: 0.560573 ms
+[2] serialize the scan request: 0.166054 ms
+[3] Exec: 1878.81 ms
+[4] Deserialze table: 102.584 ms
+[1] stat fragment: 0.500011 ms
+[2] serialize the scan request: 0.137632 ms
+[3] Exec: 1905.66 ms
+[4] Deserialze table: 104.56 ms
+[1] stat fragment: 0.523127 ms
+[2] serialize the scan request: 0.12564 ms
+[3] Exec: 1605.38 ms
+[4] Deserialze table: 114.716 ms
+[1] stat fragment: 0.530933 ms
+[2] serialize the scan request: 0.14442 ms
+[3] Exec: 1880.3 ms
+[4] Deserialze table: 100.495 ms
+[1] stat fragment: 0.583171 ms
+[2] serialize the scan request: 0.140213 ms
+[3] Exec: 1921.06 ms
+[4] Deserialze table: 102.23 ms
+[1] stat fragment: 0.520497 ms
+[2] serialize the scan request: 0.128684 ms
+[3] Exec: 1871.36 ms
+[4] Deserialze table: 103.866 ms
+[1] stat fragment: 0.521631 ms
+[2] serialize the scan request: 0.130804 ms
+[3] Exec: 1773.28 ms
+[4] Deserialze table: 104.637 ms
+[1] stat fragment: 0.521615 ms
+[2] serialize the scan request: 0.125909 ms
+[3] Exec: 1881.84 ms
+[4] Deserialze table: 104.199 ms
+[1] stat fragment: 0.561542 ms
+[2] serialize the scan request: 0.124967 ms
+[3] Exec: 1884.14 ms
+[4] Deserialze table: 99.032 ms
+[1] stat fragment: 0.561407 ms
+[2] serialize the scan request: 0.136911 ms
+[3] Exec: 1860.97 ms
+[4] Deserialze table: 95.002 ms
+[1] stat fragment: 0.529509 ms
+[2] serialize the scan request: 0.125319 ms
+[3] Exec: 1913.99 ms
+[4] Deserialze table: 103.104 ms
+[1] stat fragment: 0.508572 ms
+[2] serialize the scan request: 0.115328 ms
+[3] Exec: 1896.91 ms
+[4] Deserialze table: 121.699 ms
+[1] stat fragment: 0.542686 ms
+[2] serialize the scan request: 0.15732 ms
+[3] Exec: 1749.1 ms
+[4] Deserialze table: 107.551 ms
+[1] stat fragment: 1.24712 ms
+[2] serialize the scan request: 0.122766 ms
+[3] Exec: 1860.5 ms
+[4] Deserialze table: 112.658 ms
+[1] stat fragment: 0.541777 ms
+[2] serialize the scan request: 0.119965 ms
+[3] Exec: 1754.53 ms
+[4] Deserialze table: 103.884 ms
+[1] stat fragment: 0.493495 ms
+[2] serialize the scan request: 0.125648 ms
+[3] Exec: 1909.33 ms
+[4] Deserialze table: 110.107 ms
+[1] stat fragment: 0.615338 ms
+[2] serialize the scan request: 0.12408 ms
+[3] Exec: 1862.23 ms
+[4] Deserialze table: 107.584 ms
+[1] stat fragment: 0.567881 ms
+[2] serialize the scan request: 0.120853 ms
+[3] Exec: 1872.07 ms
+[4] Deserialze table: 99.2609 ms
