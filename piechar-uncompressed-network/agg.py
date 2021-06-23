@@ -84,6 +84,5 @@ if __name__ == "__main__":
 
     df = pd.DataFrame(result.items())
     print(df)
-    fig = px.pie(df, values=1, names=0, color_discrete_sequence=px.colors.sequential.RdBu)
-    fig.show()
+    fig = px.pie(df, title="Sending uncompressed IPC", values=1, names=0, color_discrete_sequence=px.colors.sequential.RdBu)
     fig.write_image("pie.pdf")
