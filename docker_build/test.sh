@@ -1,7 +1,7 @@
 #!/bin/bash
 set -x
 
-build_dir=cpp/debug
+build_dir=cpp/release
 test_dir=${build_dir}/test-cluster
 
 pushd ${build_dir}
@@ -84,7 +84,7 @@ EOF
 
     # copy the CLS libs to the appropriate locations.
     mkdir -p /usr/lib/x86_64-linux-gnu/rados-classes/
-    cp debug/libcls_arrow* /usr/lib/x86_64-linux-gnu/rados-classes/
+    cp release/libcls_arrow* /usr/lib/x86_64-linux-gnu/rados-classes/
     systemctl restart ceph-osd.target
 
     # mount a ceph filesystem to /mnt/cephfs in the user-space using ceph-fuse
@@ -105,8 +105,8 @@ EOF
     sleep 2
 
     run the end-to-end C++ tests
-    TESTS=debug/arrow-cls-cls-arrow-test
+    TESTS=release/arrow-cls-cls-arrow-test
     if [ -f "$TESTS" ]; then
-       debug/arrow-cls-cls-arrow-test
+       release/arrow-cls-cls-arrow-test
     fi
 popd
