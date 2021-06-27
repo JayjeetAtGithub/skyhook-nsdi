@@ -12,9 +12,13 @@ if __name__ == "__main__":
     values = list()
     for k, v in data_dict['Values'].items():
         values.append(int(v))
+    
+    timex = list()
+    for t in time:
+        timex.append(t*10)
 
     plot_dict = {
-        'time': time,
+        'time': timex,
         'throughput': values,
         'Type': 'vanilla-parquet'
     }
@@ -30,8 +34,12 @@ if __name__ == "__main__":
     for k, v in data_dict['Values'].items():
         values.append(int(v))
 
+    timex = list()
+    for t in time:
+        timex.append(t*10)
+
     plot_dict = {
-        'time': time,
+        'time': timex,
         'throughput': values,
         'Type': 'rados-parquet'
     }
